@@ -15,9 +15,8 @@ HTML, CSS, Javascript, ReactJS, React Hooks, Flux, Webpack, NPM, Jest, Bootstrap
 
 🌱 **I’m currently...**
 
-- Building an **innovative e-commerce platform** to transform online shopping experiences. 🛒✨
-- Leveling up my skills with **React**, exploring the latest in frontend magic. ⚛️🔍
-- Diving deep into **Python** to master its power and versatility. 🐍🔧
+- Creating **Retro Games** with **Python** 🕹️🐍
+- Exploring **React** Applications such as **Weather Apps** and **Movie Search Apps** ⚛️🔍
 
 🌟 **Latest Projects**
 
